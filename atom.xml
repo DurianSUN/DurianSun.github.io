@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jucsinyu.com/"/>
-  <updated>2016-11-14T04:13:32.744Z</updated>
+  <updated>2016-11-15T02:07:40.111Z</updated>
   <id>http://jucsinyu.com/</id>
   
   <author>
@@ -14,26 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://jucsinyu.com/2016/11/14/test/"/>
-    <id>http://jucsinyu.com/2016/11/14/test/</id>
-    <published>2016-11-14T04:13:21.000Z</published>
-    <updated>2016-11-14T04:13:32.744Z</updated>
-    
-    <content type="html"><![CDATA[<p>dsadasd</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;dsadasd&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>重启前端之路</title>
